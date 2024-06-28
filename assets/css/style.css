@@ -7,7 +7,7 @@ body {
 } 
   
 h1 {
-  color: #fff;
+  color: #383333;
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
   text-align: center;
@@ -31,7 +31,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #443f41;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
